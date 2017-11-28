@@ -6163,9 +6163,9 @@ text-table@0.2.0, text-table@~0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/text-table/-/text-table-0.2.0.tgz#7f5ee823ae805207c00af2df4a84ec3fcfa570b4"
 
-thicket-camera@1.x.x:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/thicket-camera/-/thicket-camera-1.0.1.tgz#008c3c6be610087ed8f8a0877b8ae70a8bb96b31"
+thicket-camera@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/thicket-camera/-/thicket-camera-1.1.0.tgz#f0e0aabe1da39db8a406f93fe9020dfe86446359"
   dependencies:
     gifshot "^0.3.2"
     styled-components "^2.2.1"
