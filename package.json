@@ -9,7 +9,7 @@
     "react-copy-to-clipboard": "^5.0.1",
     "react-dom": "^16.0.0",
     "react-scripts": "1.0.14",
-    "thicket-camera": "^1.1.0"
+    "thicket-camera": "^1.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
